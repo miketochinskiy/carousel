@@ -1,6 +1,6 @@
 # Inspirational Books Carousel
 
-![Coffee](https://www.quirkbooks.com/wp-content/uploads/2015/04/coffee20writing.gif) 
+![Book](https://www.heraldnet.com/wp-content/uploads/2020/07/22162343_web1_TSR-Nature-Books-edh-200726.jpg) 
 
 ## Topic
 Best Rated Improvment Books
