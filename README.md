@@ -6,7 +6,8 @@
 Different Types of Coffee
 
 ## Why does this exist? 
-- Informational to those who see it.
+- Informational
 
 ## Citations
-- 
+- Coffee Logo is from: https://www.freepnglogos.com/pics/coffee-logo-png
+
