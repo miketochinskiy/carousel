@@ -1,13 +1,12 @@
-# Quote Carousel
+# Coffee Carousel
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/quote-carousel)
+![Coffee](https://www.quirkbooks.com/wp-content/uploads/2015/04/coffee20writing.gif) 
 
-A carousel of quotes.
+## Topic
+Different Types of Coffee
 
 ## Why does this exist? 
-- Understand pros and cons of the UI pattern: sliders or carousels
-- Create solution without using depending on a third-party JS library
-- Web experience that can be navigated without a mouse and keyboard
+- Informational to those who see it.
 
 ## Citations
-- Your citations and sources go here
+- 
