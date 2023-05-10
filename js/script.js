@@ -1,24 +1,24 @@
 /* Data to Show*/
 const data = [
   {
-   quote: `“P`, 
-   emoji: '🏔', 
-   image: `url(assets/mountain.jpg)`
+   quote: `Meditations of Marcus Aurelius`,
+   emoji: ' <img src="./assets/books/Meditations.png" class="book">', 
+   image: `url(assets/Sand/7.jpeg)`
   }, 
   {
-   quote: `“Brave the oceans.”`, 
-   emoji: '🌊', 
-   image: `url(assets/ocean.jpg)`
+   quote: `Psycho-Cybernetics`, 
+   emoji: '<img src="./assets/books/Psycho-Cybernetics.png" class="book">', 
+   image: `url(assets/Sand/9.jpg)`
   },  
   {
-   quote: `“Grow like a tree.”`, 
-   emoji: '🌲' , 
-   image: `url(assets/tree.jpg)`
+   quote: `Atomic Habits`,
+   emoji: '<img src="./assets/books/AtomicHabits.png" class="book">', 
+   image: `url(assets/Sand/5.jpeg)`
   },
   {
-    quote: `“We'll be ok now.”`, 
-    emoji: '👌', 
-    image: `url(assets/forest.jpg)`
+    quote: `The Obstacle is the Way`,
+    emoji: '<img src="./assets/books/The Obstacle.png" class="book">', 
+    image: `url(assets/Sand/4.jpeg)`
   }
 ];
 
@@ -33,11 +33,11 @@ const emoji = document.querySelector('p');
 const bgImage = document.querySelector('body');
 
 // Check-Check: change text
-quote.innerHTML = "Colin is quotable.";
+quote.innerHTML = "Best Inspirational Reads";
 // Check-Check: change emoji text
-emoji.innerHTML = "👍️";
+emoji.innerHTML = "";
 // Check-Check: background image
-bgImage.style.backgroundImage= 'url(/assets/mountain.jpg)';
+bgImage.style.backgroundImage= 'url(./assets/Sand/8.jpg)';
 
 /*
  * Navigate to Items with Event Listeners
