@@ -1,8 +1,9 @@
 /* Stylesheet */
 
 body {  
-  /* Sharpie Font */
-  font-family: 'Sharpie-Regular', sans-serif;
+  /* Kalam Font */
+  font-family: 'Kalam-Light', sans-serif;
+  color: #C36569;
 
   /* Horizontal and Vertical Center */
   display: flex;
@@ -15,6 +16,7 @@ body {
   
   /* Load Background Images with JS. Style with CSS */ 
   background-size: cover;
+  background-color: #FAF0E6;
 }
 
 /* Apply Font */
@@ -23,5 +25,19 @@ main {
   text-align: center;
   
   /* Add contrast to text */
-  background-color: rgba(255, 255, 255, 0.25);
+  background-color: #faf0e6e8;
+  border-radius: 20px;
+}
+
+nav {
+    margin-top: 50px;
+  }
+
+.book {
+  height: 500px;
+  margin: 0px 50px;
+}
+
+#icon {
+  height: 300px;
 }
