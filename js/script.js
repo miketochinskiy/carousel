@@ -1,8 +1,8 @@
 /* Data to Show*/
 const data = [
   {
-   quote: `“Be like a mountain.”`, 
-   emoji: '🗻', 
+   quote: `“P`, 
+   emoji: '🏔', 
    image: `url(assets/mountain.jpg)`
   }, 
   {
@@ -23,7 +23,7 @@ const data = [
 ];
 
 /*
-Quote and Emoji
+Quote and emoji
 */
 // blockquote
 const quote = document.querySelector('blockquote');
