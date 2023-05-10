@@ -35,7 +35,7 @@ const bgImage = document.querySelector('body');
 // Check-Check: change text
 quote.innerHTML = "Best Inspirational Reads";
 // Check-Check: change emoji text
-emoji.innerHTML = "";
+emoji.innerHTML = '<img src="./assets/bicon.png" id="icon" >';
 // Check-Check: background image
 bgImage.style.backgroundImage= 'url(./assets/Sand/8.jpg)';
 
